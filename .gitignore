@@ -1,0 +1,11 @@
+History
+__Previews
+Project Logs for */*
+Project Outputs for */*
+*.PrjPCBStructure
+*.htm
+*.LOG
+#*Preview
+*viewstate
+*.Dat
+*.OutJob
